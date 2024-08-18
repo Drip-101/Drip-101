@@ -13,7 +13,7 @@ My journey in college has led me to develope a passion for cybersecurity. I aim 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Drip-101/Conduct-a-security-audit/tree/main">Conduct a security audit</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,5 +54,5 @@ My journey in college has led me to develope a passion for cybersecurity. I aim 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Drip-101/Conduct-a-security-audit/tree/main">Conduct a security audit</a>
 - SOC Automation Project
